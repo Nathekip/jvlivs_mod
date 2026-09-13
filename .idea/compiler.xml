@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/eventbus-validator/7.0.5/c18a195f385f9d481f55e322a9f276fb7293b52d/eventbus-validator-7.0.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/eventbus/7.0.5/e779c3e3b40556826f0c5d6ffe65dc7b3f3573e7/eventbus-7.0.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar" />
+        </processorPath>
+        <module name="examplemod.main" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel target="25" />
   </component>
 </project>
